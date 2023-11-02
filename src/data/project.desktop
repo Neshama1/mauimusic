@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=mauimusic
+Comment=Convergent app ...
+TryExec=mauimusic
+Exec=mauimusic %U
+Terminal=false
+Type=Application
+GenericName=
+StartupNotify=true
+Icon=mauimusic
+Categories=Qt;KDE;
+MimeType=
+SingleMainWindow=true
