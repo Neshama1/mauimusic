@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<RCC>
-    <qresource prefix="/">
-        <file alias="main.qml">../../src/controls/main.qml</file>
-        <file alias="HealthSlider.qml">../../src/controls/HealthSlider.qml</file>
-        <file alias="Search.qml">../../src/controls/Search.qml</file>
-    </qresource>
-</RCC>
